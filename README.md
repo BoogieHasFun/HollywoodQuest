@@ -1,6 +1,5 @@
 # Hollywood
-
-### Don't mind me, messing around. If I be mean by accident I'm sorry.
+` i'm just messing around, please don't be mean :(`
 
 ~~The library behind making those magical Quest videos that look like PC~~
 
