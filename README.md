@@ -1,5 +1,5 @@
 # Hollywood
-` i'm just messing around, please don't be mean :(`
+> i'm just messing around, please don't be mean if random stuff happens on this fork, being mean will make me sad and discouraged, making me want to quit and stop doing what i love, so please be nice. - boogie
 
 ~~The library behind making those magical Quest videos that look like PC~~
 
